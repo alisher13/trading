@@ -53,3 +53,9 @@ for company_id in id_list[1000:1100]:
 print "total long: ", sum(total_long, 0), "   total short: ", sum(total_short, 0), "   total_gain: ", total_gain
 
 
+
+    # print stock, total_gain
+
+
+# 1234567890
+
